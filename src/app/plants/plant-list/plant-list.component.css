@@ -1,0 +1,14 @@
+.table-header{
+    background-color: #333A40;
+    color: #fff;
+}
+table{
+    width: 70%;
+}
+
+.total{
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+}
